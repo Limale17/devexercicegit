@@ -3,3 +3,4 @@ config.txt
 build/
 build
 *.exe
+bin/*.bin
