@@ -5,3 +5,4 @@ build
 *.exe
 bin/*.txt
 temp*
+**/configs
