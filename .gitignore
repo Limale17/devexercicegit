@@ -2,3 +2,4 @@ a-ignorer.html
 config.txt
 build/
 build
+*.exe
